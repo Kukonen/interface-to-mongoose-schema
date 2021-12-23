@@ -1,0 +1,20 @@
+{
+  "name": "interface-to-mongoose-schema",
+  "version": "1.0.0",
+  "description": "transformation ts interfaces to mongoose schema",
+  "main": "./ITMC.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kukonen/interface-to-mongoose-schema.git"
+  },
+  "keywords": [],
+  "author": "Evgeniy Kukonen (https://github.com/kukonen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kukonen/interface-to-mongoose-schema/issues"
+  },
+  "homepage": "https://github.com/Kukonen/interface-to-mongoose-schema#readme"
+}
